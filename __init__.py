@@ -1,4 +1,6 @@
-#coucou
+# pip install git+https://github.com/QDuver/qd_custom_functions.git
+
+
 import json
 import requests
 import pandas as pd
